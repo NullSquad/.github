@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../logo/png/logo-white.png" alt="NullSquad Logo" width="200"/>
+  <img src="../logo/png/logo-no-background.png" alt="NullSquad Logo" width="200"/>
 </p>
 
 ## Welcome to NullSquad 🗅
